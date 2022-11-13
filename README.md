@@ -13,8 +13,10 @@ This application is available at: https://waciciarelli.github.io/UFO/
 Opening the page, the user is greeted with styled web page and a paragraph of information on UFO's. To start their own search, a user simply needs to scroll down.
 
 To start, the user will see the unfiltered data from the ufo dataset:
+![Unfiltered Data](https://github.com/waciciarelli/UFO/blob/main/static/images/unfiltered%20data.png?raw=true)
 
 In order to filter this data, the user simply needs to type a date, city, state, country, and/or shape into the respective boxes and press enter. The data will the be filtered to match the criteria described by the user:
+![Filtered Data](https://github.com/waciciarelli/UFO/blob/main/static/images/filtered%20data.png?raw=true)
 
 
 ## Summary:
